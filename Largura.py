@@ -29,6 +29,6 @@ class Largura:
                 Largura.buscar(self)
 
 
-mapa = Mapa()
+'''mapa = Mapa()
 largura = Largura(mapa.portoUniao, mapa.irati)
-largura.buscar()
+largura.buscar()'''
